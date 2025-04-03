@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Java-Login-App
 =======
 ## Java Login App ##
@@ -38,4 +38,3 @@ SELECT * FROM Employee;
 
 ## Describe Table schema ##
 DESCRIBE Employee;
->>>>>>> 0b0dfc8 (Fix: Added missing files before push)

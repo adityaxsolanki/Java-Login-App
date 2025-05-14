@@ -1,7 +1,6 @@
 
 # Java-Login-App
-=======
-## Java Login App ##
+
 Testing 
 
 ## Sample Java Login application uses "UserDB" database and Table schema to store the Employee Login details. ##
